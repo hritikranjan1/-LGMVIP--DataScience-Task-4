@@ -29,7 +29,7 @@ To run this project, make sure you have Python installed on your system. Follow 
 
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone https://github.com/yourusername/image-to-pencil-sketch.git
+   git clone https://github.com/hritikranjan1/image-to-pencil-sketch.git
    cd image-to-pencil-sketch
 2.Install the necessary libraries using pip:
 
